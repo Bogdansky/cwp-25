@@ -1,0 +1,10 @@
+{
+    "name": "cwp-25",
+    "version": "1.0.0",
+    "author": "bogdan kalishok",
+    "dependencies": {
+        "compression": "^1.7.3",
+        "express": "^4.16.4",
+        "mime": "^2.4.0"
+    }
+}
